@@ -1,0 +1,5 @@
+/my-site/.hugo_build.lock
+/my-site/public/
+/my-site/resources/
+
+.obsidian
