@@ -18,7 +18,4 @@ scrolltotop: true
 
 ```
 
-
-<%* 
-await tp.file.rename("test" + tp.date.now("YYYY-MM-DD"));
-%>
+<%-* await tp.file.rename("t" + tp.date.now("YYYY-MM-DD")); %>
